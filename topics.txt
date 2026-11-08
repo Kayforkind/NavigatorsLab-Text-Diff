@@ -1,0 +1,1 @@
+textdiff diff text-comparison lcs navigatorslab-tools browser client-side offline-first privacy-tools no-upload mit-license javascript
